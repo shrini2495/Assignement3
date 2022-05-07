@@ -41,8 +41,7 @@
         <option value = "ee"> Hoodies</option></select></h3>
     <h3 style="background-color: Cyan; text-align: center;">Click on photo to view real website</h3>
     <button type = "button"  onclick="location.href = 'https://www.comicsense.in/'"> <img src="punkart.jpg"  alt="Website" height="500px" width="750px">  </button>
-    <div id = "hover" onmouseover="hov()" onmouseleave="hove()" 
-    style = "background-color: rgb(0, 4, 255);height: 50px; width: 100px;";> <p style="text-align: center; text-anchor: middle; color: rgb(9, 255, 0);"><a href="https://www.comicsense.in/" style="color: black;"> New collection!!</a></p></div> <br><br>
+     <p style="text-align: center; text-anchor: middle; color: rgb(9, 255, 0);"><a href="https://www.comicsense.in/" style="color: black;"> New collection!!</a></p> <br><br>
     <hr>
     <h2>FOLLOW US ON</h2>
     <button type = "button" onclick="location.href = 'https://www.instagram.com/comicsensefam/?hl=en'"> <img src="Instagramicon.png" alt="Website" height="50px" width="50px">  </button>
